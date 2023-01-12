@@ -1,0 +1,251 @@
+*{
+    scroll-behavior: auto;
+}
+.search-bar{
+    display: flex;
+    z-index: 3;
+    height: 44px;
+    background: #fff;
+    border: none;
+    box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+    border-radius: 24px;
+    margin: 0;
+    width: 690px;
+    gap: 15rem;
+}
+.search-icons{
+    display: flex;
+    flex: 0 0 auto;
+    margin-top: 12px;
+    align-items: stretch;
+    flex-direction: row;
+    position: relative;
+    gap: 1rem;
+}
+.nav-left-side{
+    margin-top: 45px;
+    display: flex;
+    gap: 5rem;
+}
+.google-logo{
+    margin-left: 20px;
+}
+.glf{
+    border: 0px;
+}
+.giff{
+box-sizing: border-box;
+border: 1px solid grey;
+border-radius: 20px;
+width: 95px;
+margin: 8px;
+padding: 10px;
+background-color: transparent;
+}
+.img a:hover{
+    background-color: rgb(231, 238, 238);
+}
+.video a:hover{
+    background-color: rgb(231, 238, 238);
+}
+.news a:hover{
+    background-color: rgb(231, 238, 238);
+}
+.map a:hover{
+    background-color: rgb(231, 238, 238);
+}
+.finance a:hover{
+    background-color: rgb(231, 238, 238);
+}
+.book a:hover{
+    background-color: rgb(231, 238, 238);
+}
+.nav-left-side2{
+    display: flex;
+    gap: 0.6rem;
+    margin-top: 25px;
+    margin-left: 153px;
+    text-align: center;
+    align-items: baseline;
+}
+.icons{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    display: flex;
+    gap: 2rem;
+    margin-top: 45px;
+    margin-right: 20px;
+}
+.filter a:hover{
+    box-sizing: border-box;
+    border: transparent;
+    border-radius: 20px;
+    background-color: rgb(231, 238, 238);
+    width: 30px;
+    padding: 10px;
+}
+.tools a:hover{
+    box-sizing: border-box;
+    border: transparent;
+    border-radius: 20px;
+    background-color: rgb(231, 238, 238);
+    width: 30px;
+    padding: 10px;
+}
+.filter-tool{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    display: flex;
+    gap: 2rem;
+    margin-top: 110px;
+    margin-right: 20px;
+}
+.horizontal-line{
+    width: auto;
+    margin-top: 25px;
+}
+.main-section{
+    margin-left: 153px;
+}
+.first-h4{
+    color: rgb(145, 145, 145);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.giff-2{
+    box-sizing: border-box;
+    border: transparent;
+    border-radius: 20px;
+    background-color: rgb(231, 228, 228);
+    width: 100px;
+    padding: 10px;
+}
+.giff-2a{
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 20px;
+    background-color: rgb(231, 228, 228);
+    width: 97px;
+    padding: 10px;
+}
+.lionel-messi-pics-profession{
+    display: flex;
+    gap: 1rem;
+}
+.overview-all-blcks{
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 20px ;
+}
+.display-flex{
+    display: flex;
+    gap: 2rem;
+}
+.second-h4{
+    font-size: 25px;
+    margin-top: 5px;
+}
+.container{
+    box-sizing: border-box;
+    border: transparent;
+    border-radius: 20px;
+    display: flexbox;
+    align-items: center;
+    height: fit-content;
+}
+.font-10{
+    font-size: 25px;
+}
+.font-8{
+    font-size: 18px;
+    color: rgb(80, 79, 79);
+}
+.left-side{
+    width: 240%;
+    text-align: left;
+    margin-left: 0px;
+}
+.first-top-story-pic{
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+.days-no{
+    color: rgb(146, 145, 145);
+}
+.left-side-2{
+    width: 120%;
+    text-align: left;
+    margin-left: 0px;
+}
+.writeup-pics{
+    display: flex;
+    gap: 1rem;
+}
+.skeeda-pics{
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+.vl{
+    border-left: 1px solid grey;
+    height: 420px;
+    position: absolute;
+    margin-left: 23.5%;
+    margin-top: 40%;
+    margin-bottom: 100px;
+    top: 0;
+    bottom: 0;
+}
+.top-stories{
+    display: flex;
+    gap: 5rem;
+}
+.marca-writeup-pics{
+    margin-top: 30px;
+    display: flex;
+    gap: 2.5rem;
+    width: 100%;
+}
+.dailymanna{
+    margin-top: 20px;
+}
+.left-side-3{
+    width: 100%;
+    text-align: left;
+    margin-left: 0px;
+}
+.punch-writeup-pics{
+    display: flex;
+    gap: 3rem;
+}
+.link-line{
+    background-color: #dadce0;
+    margin-top: 500px;
+    margin-left: 130px;
+    position: absolute;
+    border: 0;
+    height: 1px;
+    left: 0;
+    width: 50%;
+}
+.more-link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 490px;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    font-weight: 400;
+    width: 300px;
+    height: 36px;
+    border-radius: 18px;
+    background-color: #f1f3f4;
+}
+.hhh{
+    
+}
+
+
